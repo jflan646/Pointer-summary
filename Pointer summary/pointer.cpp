@@ -1,4 +1,4 @@
-// intro comment
+// name date purpose
 #include <iostream>
 using namespace std;
 int doSomething(int& x, int& y);
