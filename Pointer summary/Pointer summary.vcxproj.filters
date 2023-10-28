@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pointer.cpp">
+    <ClCompile Include="reverse.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
